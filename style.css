@@ -19,3 +19,15 @@ nav a {
 nav a:hover {
   color: #4caf50;
 }
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  nav a {
+    padding: 10px;
+    display: block;
+  }
+}

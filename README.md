@@ -11,5 +11,7 @@ The project incorporates Flexbox elements, labels created using `<div>` tags, an
 modul_293_website_css_html_div/
 ├── contact.html # cantact page
 ├── about,html # about me page
-└── index.html # main page
+├── index.html # main page
+├── README.md # README file
+└── style.css # style file for html website
 ```
