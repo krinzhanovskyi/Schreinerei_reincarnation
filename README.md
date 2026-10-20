@@ -1,1 +1,15 @@
-123
+# Learning Project ; My WebSite using Frameworks, CSS, HTML
+
+This website is a practical project for Module 293: Website Development.
+The project incorporates Flexbox elements, labels created using `<div>` tags, and frameworks.
+
+<hr></hr>
+
+## Project strukture
+
+```
+modul_293_website_css_html_div/
+├── contact.html # cantact page
+├── about,html # about me page
+└── index.html # main page
+```
